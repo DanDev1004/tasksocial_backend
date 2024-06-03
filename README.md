@@ -12,3 +12,6 @@ Con estos pasos podrá levantar el proyecto, los requerimientos para ejecutarlo 
 - Tener xampp instalado
 - Tener composer instalado
 
+Otras dependencias a requerir:
+
+composer require dompdf/dompdf
